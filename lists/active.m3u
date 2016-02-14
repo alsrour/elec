@@ -1,60 +1,10 @@
-#EXTM3U
-#EXTINF:-1,BeIN sport HD1
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/136.ts
-
-#EXTINF:-1,BeIN sport HD2
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/137.ts
-
-#EXTINF:-1,BeIN sport HD3
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/138.ts
-
-#EXTINF:-1,BeIN sport HD4
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/139.ts
-
-#EXTINF:-1,BeIN sport HD5
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/140.ts
-
-#EXTINF:-1,BeIN sport HD6
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/335.ts
-
-#EXTINF:-1,BeIN sport HD7
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/142.ts
-
-#EXTINF:-1,BeIN sport HD8
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/143.ts
-
-#EXTINF:-1,BeIN sport HD9
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/336.ts
-
-#EXTINF:-1,BeIN sport HD10
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/337.ts
-
-#EXTINF:-1,BeIN sport HD11
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/146.ts
-
-#EXTINF:-1,BeIN sport HD12
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/147.ts
-
-#EXTINF:-1,BeIN sport HD13
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/459.ts
-
-#EXTINF:-1,BeIN sport HD14
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/460.ts
-
-#EXTINF:-1,BeIN sport HD15
-
-http://iptv.for-our.info:2112/live/v3_1996/dftguop981/461.ts
+#EXTM3U 
+#EXTINF:-1,Sport Klub 1 http://46.234.100.41:8080/sk1/index.m3u8 
+#EXTINF:-1,Sport Klub 2 http://46.234.100.41:8080/sk2/index.m3u8 
+#EXTINF:-1,Sport Klub 3 http://46.234.100.41:8080/sk3/index.m3u8 
+#EXTINF:-1,Sport Klub 4 http://46.234.100.41:8080/sk4/index.m3u8 
+#EXTINF:-1,Sport Klub 5 http://46.234.100.41:8080/sk5/index.m3u8 
+#EXTINF:-1,Sport Klub 6 http://46.234.100.41:8080/sk6/index.m3u8 
+#EXTINF:-1,Supersport 2 http://46.234.100.41:8080/ss2sd/index.m3u8 
+#EXTINF:-1,Supersport 3 http://46.234.100.41:8080/ss3sd/index.m3u8 
+#EXTINF:-1,Supersport 4 http://46.234.100.41:8080/ss4sd/index.m3u8
